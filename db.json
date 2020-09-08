@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "location": "hjgfhjfjf",
+      "address1": "gkgku",
+      "suite": "gkg",
+      "address2": "gkgk",
+      "city": "hghgh",
+      "state": "jkhkjh",
+      "zipcode": "gjhg",
+      "phone": "jhgjhgh",
+      "time": "jgjgj",
+      "facility": "hfhf",
+      "appointment": "fjfj",
+      "id": 1
+    },
+    {
+      "location": "delhi",
+      "address1": "HNO 135",
+      "suite": "VILL ",
+      "address2": "TH MANDI DHANUARA",
+      "city": "AMROHA",
+      "state": "UTTAR PRADESH",
+      "zipcode": "244231",
+      "phone": "4528746389",
+      "time": "+5:00GMT",
+      "facility": "9-10 AM",
+      "appointment": "available",
+      "id": 2
+    }
+  ]
+}
